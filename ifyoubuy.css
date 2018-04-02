@@ -1,0 +1,18 @@
+body {
+    background-color: #66CCCC;
+    color: whitesmoke;
+    text-align: center;
+}
+button {
+    padding: 5px 20px;
+    background-color: #FF9999;
+    color: whitesmoke;
+    border-color: #FFC107;
+    border-style: none;
+}
+input {
+    height: 20px;
+}
+h2 {
+    color: black;
+}
